@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">razor-pay</string>
+    <string name="merchant_name_text">Merchant Name</string>
+    <string name="payment_amount_text">Payment Amount in Paise</string>
+    <string name="pay_now_text">Pay Now</string>
+</resources>
